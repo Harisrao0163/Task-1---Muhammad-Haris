@@ -64,7 +64,7 @@ Enhanced User Experience
 
 👨‍💻 Author
 @Muhammad Haris 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/⁠�
+LinkedIn: https://www.linkedin.com/posts/muhammadharisrao_decodelabs-internship-frontenddevelopment-activity-7470106744040644609-EbJZ?utm_source=share&utm_medium=member_android&rcm=ACoAAFdKNqcBmpzzPRx9hR8HBasNLUjIs7A7pc4
 
 📄 License
 This project is licensed under the MIT License.# 
