@@ -64,8 +64,6 @@ Enhanced User Experience
 
 👨‍💻 Author
 @Muhammad Haris 
-GitHub: https://github.com/yourusername⁠�
-
 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/⁠�
 
 📄 License
